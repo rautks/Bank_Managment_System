@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+ form
+    {
+        background-color: rgb(42, 121, 95);
+        height: 450px;
+        width: 450px;
+    }
+    h1
+    {
+        font-size: 50x;
+    }
+    input
+    {
+            width: 205px;
+            height: 35px;
+            background-color: rgb(142, 209, 209);
+    }

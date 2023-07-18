@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+body
+       {
+            background-color: rgb(192, 165, 165);
+            padding: 250px;
+       }
+        input
+        {
+            border-radius: 10px;
+            background-color: rgba(24, 24, 81, 0.119);
+            width: 150px;
+            height: 35px;
+        }
